@@ -1,7 +1,5 @@
 package org.learn.design_patterns.structural.adaptor2;
 
-import java.io.OutputStream;
-
 public class MainApp {
 
     public static void main(String[] args) {
