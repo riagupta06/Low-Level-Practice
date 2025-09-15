@@ -11,8 +11,9 @@ public class MainApp {
         payment1.pay(1500);
 
         /*Output
-        Stripe payment
-        Paypal payment*/
+        Stripe payment of 1500 in USD
+        Paypal payment of 1500
+        */
 
     }
 
